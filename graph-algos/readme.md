@@ -1,0 +1,5 @@
+# Algos covered
+
+bfs
+
+dfs
