@@ -5,3 +5,7 @@ bfs
 dfs
 
 dsu
+
+dijkstras
+
+floyd warshalls
