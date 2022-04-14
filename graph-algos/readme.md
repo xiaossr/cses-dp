@@ -9,3 +9,5 @@ dsu
 dijkstras
 
 floyd warshalls
+
+bellman ford
