@@ -13,3 +13,5 @@ floyd warshalls
 bellman ford
 
 topological sort
+
+binary jumping
