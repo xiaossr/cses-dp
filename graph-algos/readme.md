@@ -19,3 +19,5 @@ binary jumping
 prim's
 
 dsu
+
+super-connected components - kosaraju's and tarjan's
