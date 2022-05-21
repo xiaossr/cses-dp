@@ -15,3 +15,5 @@ bellman ford
 topological sort
 
 binary jumping
+
+prim's
