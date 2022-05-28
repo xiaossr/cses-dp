@@ -4,4 +4,4 @@ prefix sums
 
 sqrt decomposition
 
-segtree
+segtree + lazy propogation
