@@ -9,3 +9,5 @@ segtree + lazy propogation
 binary indexed tree
 
 range updates, range query, point update, point query
+
+binary search
