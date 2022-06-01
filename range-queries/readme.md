@@ -16,4 +16,6 @@ range updates, range query, point update, point query
 
 binary search
 
-redo increasing array queries
+persistent segment tree
+
+redo increasing array queries, polynomial queries, range queries and copies
